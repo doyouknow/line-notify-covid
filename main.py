@@ -5,7 +5,7 @@ import json
 url = 'https://notify-api.line.me/api/notify'
 
 # Line Notify Token
-token = 'QQ5ONTCrvkJArnXRJYnJIRlpazX4YXX1ZjEfKJQPPov'
+token = 'OFyUxKI3Q2LunfNY0Mq16uCWAvGJquyZhg5gsOqfqka'
 
 headers = {'Content-Type': 'application/x-www-form-urlencoded','Authorization':'Bearer ' +token }
 
