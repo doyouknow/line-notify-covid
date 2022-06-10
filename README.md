@@ -1,7 +1,4 @@
 # COVID-19TH-LINE-Notify
-COVID-19TH-LINE-Notify Python
-Created by Thananchai.W
-
 <br>
 
 <a href="https://heroku.com/deploy?template=https://github.com/doyouknow/line-notify-covid">
